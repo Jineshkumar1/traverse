@@ -388,3 +388,15 @@ This project is licensed under the MIT License.
 - Navigation header with user menu
 
 **🌐 Access your app at: http://localhost:3000**
+
+
+### 🎨 Phase 1 Completed Features Showcase
+
+## 📸 App Screenshots & Visuals
+
+![Traverse Homepage](public/screenshots/traverse-image2.png)
+*Traverse Homepage - Hero section with navigation and feature overview*
+
+![Traverse Dashboard](public/screenshots/traverse-image1.png)
+*Traverse Dashboard - Main interface with statistics, recent activities, and quick actions*
+
